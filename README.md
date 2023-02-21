@@ -18,3 +18,13 @@ Aptos Developer Documentation - https://aptos.dev/
 Move Book - https://move-book.com/
 
 Awesome Move - https://github.com/MystenLabs/awesome-move
+
+## Contact us 
+
+Twitter - https://twitter.com/MoveBuilders
+
+Discord - https://discord.com/invite/AVr5u59tXs
+
+Linked In - https://www.linkedin.com/company/move-developers-dao/
+
+Website - https://www.movedevelopers.com/
