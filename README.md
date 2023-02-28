@@ -19,6 +19,8 @@ Move Book - https://move-book.com/
 
 Awesome Move - https://github.com/MystenLabs/awesome-move
 
+Get started - https://medium.com/mokshyaprotocol/write-your-first-smart-contract-on-aptos-a-step-by-step-guide-e16a6f5c2be6
+
 ## Contact us 
 
 Twitter - https://twitter.com/MoveBuilders
