@@ -15,6 +15,8 @@ The Move language is built with a focus on security and correctness, with a type
 
 Aptos Developer Documentation - https://aptos.dev/
 
+Aptos Move by Example - https://move-developers-dao.gitbook.io/aptos-move-by-example/
+
 Move Book - https://move-book.com/
 
 Awesome Move - https://github.com/MystenLabs/awesome-move
@@ -24,6 +26,8 @@ Get started - https://medium.com/mokshyaprotocol/write-your-first-smart-contract
 ## Contact us 
 
 Twitter - https://twitter.com/MoveBuilders
+
+Telegram - @Oxseth
 
 Discord - https://discord.com/invite/AVr5u59tXs
 
