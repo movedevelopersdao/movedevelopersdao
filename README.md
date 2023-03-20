@@ -17,7 +17,11 @@ Aptos Developer Documentation - https://aptos.dev/
 
 Aptos Move by Example - https://move-developers-dao.gitbook.io/aptos-move-by-example/
 
+Move Examples - https://github.com/aptos-labs/aptos-core/tree/main/aptos-move/move-examples
+
 Move Book - https://move-book.com/
+
+Aptos Move Book - https://aptos.dev/guides/move-guides/book/SUMMARY
 
 Awesome Move - https://github.com/MystenLabs/awesome-move
 
