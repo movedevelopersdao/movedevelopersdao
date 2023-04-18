@@ -27,6 +27,8 @@ Awesome Move - https://github.com/MystenLabs/awesome-move
 
 Get started - https://medium.com/mokshyaprotocol/write-your-first-smart-contract-on-aptos-a-step-by-step-guide-e16a6f5c2be6
 
+Remix IDE Plugin (Write MOVE modules on Remix using Welldone plugin) - https://aptos.dev/community/contributions/remix-ide-plugin
+
 ## Contact us 
 
 Twitter - https://twitter.com/MoveBuilders
