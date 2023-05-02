@@ -19,6 +19,8 @@ Aptos Move by Example - https://move-developers-dao.gitbook.io/aptos-move-by-exa
 
 Move Examples - https://github.com/aptos-labs/aptos-core/tree/main/aptos-move/move-examples
 
+Teach yourself Move - https://github.com/econia-labs/teach-yourself-move
+
 Move Book - https://move-book.com/
 
 Aptos Move Book - https://aptos.dev/guides/move-guides/book/SUMMARY
